@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\Curdoperation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CFEEA1-5C4C-48DC-A0F4-2CFA2AF6B311}|Curdoperation\\Curdoperation.csproj|d:\\repos\\curdoperation\\curdoperation\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4CFEEA1-5C4C-48DC-A0F4-2CFA2AF6B311}|Curdoperation\\Curdoperation.csproj|solutionrelative:curdoperation\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CFEEA1-5C4C-48DC-A0F4-2CFA2AF6B311}|Curdoperation\\Curdoperation.csproj|d:\\repos\\curdoperation\\curdoperation\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CFEEA1-5C4C-48DC-A0F4-2CFA2AF6B311}|Curdoperation\\Curdoperation.csproj|solutionrelative:curdoperation\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CFEEA1-5C4C-48DC-A0F4-2CFA2AF6B311}|Curdoperation\\Curdoperation.csproj|d:\\repos\\curdoperation\\curdoperation\\dal\\employee_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CFEEA1-5C4C-48DC-A0F4-2CFA2AF6B311}|Curdoperation\\Curdoperation.csproj|solutionrelative:curdoperation\\dal\\employee_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CFEEA1-5C4C-48DC-A0F4-2CFA2AF6B311}|Curdoperation\\Curdoperation.csproj|d:\\repos\\curdoperation\\curdoperation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CFEEA1-5C4C-48DC-A0F4-2CFA2AF6B311}|Curdoperation\\Curdoperation.csproj|solutionrelative:curdoperation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\repos\\Curdoperation\\Curdoperation\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Curdoperation\\Models\\Employee.cs",
+              "ToolTip": "D:\\repos\\Curdoperation\\Curdoperation\\Models\\Employee.cs",
+              "RelativeToolTip": "Curdoperation\\Models\\Employee.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:24:36.069Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\repos\\Curdoperation\\Curdoperation\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Curdoperation\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\repos\\Curdoperation\\Curdoperation\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Curdoperation\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAswC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T08:51:20.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee_DAL.cs",
+              "DocumentMoniker": "D:\\repos\\Curdoperation\\Curdoperation\\DAL\\Employee_DAL.cs",
+              "RelativeDocumentMoniker": "Curdoperation\\DAL\\Employee_DAL.cs",
+              "ToolTip": "D:\\repos\\Curdoperation\\Curdoperation\\DAL\\Employee_DAL.cs",
+              "RelativeToolTip": "Curdoperation\\DAL\\Employee_DAL.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAowIsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:25:42.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\repos\\Curdoperation\\Curdoperation\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Curdoperation\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\repos\\Curdoperation\\Curdoperation\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Curdoperation\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowHAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:22:22.611Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
